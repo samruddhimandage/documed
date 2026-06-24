@@ -146,12 +146,6 @@ The application requires the following environment variables:
 
 ## Deployment
 
-This project can be deployed using:
-
-* Vercel
-* Netlify
-* Cloudflare Pages
-* Other modern hosting platforms supporting Vite applications
 
 ## Roadmap
 
