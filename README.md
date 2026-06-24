@@ -51,7 +51,6 @@ MedRoute is a healthcare management platform built with modern web technologies 
 ### Backend & Database
 
 * Supabase
-* PostgreSQL
 
 ### Development Tools
 
