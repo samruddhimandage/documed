@@ -144,7 +144,7 @@ The application requires the following environment variables:
 * Sensitive credentials are stored outside the repository.
 
 ## Deployment
-
+versal
 
 ## Roadmap
 
