@@ -176,6 +176,4 @@ Contributions, suggestions, and improvements are welcome.
 
 This project is intended for educational, research, and healthcare technology development purposes.
 
----
 
-**Built with ❤️ using React, TypeScript, TanStack Start, and Supabase**
