@@ -65,9 +65,7 @@ export function AuthFlow({ onLoggedIn }: { onLoggedIn: () => void | Promise<void
           />
         )}
       </main>
-      <footer style={{ textAlign: "center", padding: "12px 20px 28px", color: C.muted, fontSize: 13 }}>
-        ☁️ Secured by Lovable Cloud · Works across all devices
-      </footer>
+
     </div>
   );
 }
