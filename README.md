@@ -6,6 +6,7 @@ A modern healthcare platform designed to simplify hospital operations, streamlin
 
 MedRoute is a healthcare management platform built with modern web technologies to provide a reliable and efficient experience for healthcare institutions and administrators. The platform focuses on managing medical information, hospital workflows, and healthcare-related operations through a clean and user-friendly interface.
 
+deployed link : https://documed-de5e.vercel.app/
 ## Features
 
 ### 🔐 Secure Authentication
